@@ -1,0 +1,1 @@
+openai_key = "" #write your google gemini API Key here
