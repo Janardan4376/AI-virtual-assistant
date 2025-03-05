@@ -1,1 +1,2 @@
-# AI-virtual-assistant
+# AI-virtual-assistant - JARVIS
+This is not normal JARVIS, in this, you will be able to chat with chat GPT, generate images, will work in Hindi Language, search from Wikipedia, search from Google, send WhatsApp, send an email, change the voice of the speaker, automatically create your to-do list, speak it, and show Windows notification for it, along with that it will play your favorite song and many more functionalities.
